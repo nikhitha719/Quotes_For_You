@@ -5,17 +5,13 @@ This project is great for learning the basics of React.js, state management, and
 
 🚀 Features
 
-Displays a random quote from India each time you click the button.
-
-Contains 50+ unique quotes from Indian leaders, philosophers, and thinkers.
-
-Responsive design (works on desktop and mobile).
-
-Built with React + Tailwind CSS for clean UI.
-
-🖼️ Demo
-
-👉 (You can deploy this project to Netlify or Vercel, then add your live demo link here)
+- Displays a random quote from India each time you click the button.
+ 
+- Contains 50+ unique quotes from Indian leaders, philosophers, and thinkers.
+ 
+- Responsive design (works on desktop and mobile).
+ 
+- Built with React + Tailwind CSS for clean UI.
 
 🛠️ Tech Stack
 
@@ -54,17 +50,14 @@ Now open http://localhost:3000
 
 📖 Usage
 
-Click “Get Quote” button → shows a new random quote.
+- Click “Get Quote” button → shows a new random quote.
 
-Quotes come from a predefined list of 50+ Indian quotes.
+- Quotes come from a predefined list of 50+ Indian quotes.
 
-Great for practice and learning React basics.
+- Great for practice and learning React basics.
 
 👨‍💻 Author
 
-Your Name
-
-LinkedIn Profile
- | Portfolio Website
+Nikhitha G
 
 ✨ Feel free to fork this repo and add more Indian quotes!
